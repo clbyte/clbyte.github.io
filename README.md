@@ -1,2 +1,4 @@
 # clbyte.github.io
-blog
+```
+init
+```
